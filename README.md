@@ -6,8 +6,9 @@ Follow the steps bellow:
 
 1. Open Terminal app in you computer and then:
 
-`git clone https://github.com/cleitonsouza01/mac-essentials-app
-cd mac-essentials-app`
+`git clone https://github.com/cleitonsouza01/mac-essentials-app`
+
+`cd mac-essentials-app`
 
 2. Set script as executable
 

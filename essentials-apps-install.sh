@@ -74,7 +74,6 @@ brew install iterm2
 brew install keybase
 brew install markright
 brew install obs
-brew install soda-player
 brew install spotify
 brew install telegram
 brew install torbrowser

@@ -79,10 +79,12 @@ brew install telegram
 brew install torbrowser
 brew install zoomus
 brew install visual-studio-code
+brew install open-in-code
 brew install xmind
 brew install macpass
 brew install notion
 brew install evernote
+
 
 # clean up
 brew cleanup -s

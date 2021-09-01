@@ -84,7 +84,8 @@ brew install xmind
 brew install macpass
 brew install notion
 brew install evernote
-
+brew install kindle
+brew install send-to-kindle
 
 # clean up
 brew cleanup -s

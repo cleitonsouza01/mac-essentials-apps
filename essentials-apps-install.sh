@@ -84,6 +84,7 @@ brew install xmind
 brew install macpass
 brew install notion
 brew install evernote
+brew install sublime
 brew install kindle
 brew install send-to-kindle
 

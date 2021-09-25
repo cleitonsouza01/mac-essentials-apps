@@ -39,6 +39,7 @@ brew install pwgen
 brew install tree
 brew install git
 brew install git-cola
+brew install openinterminal
 
 # install tools 
 brew install youtube-dl 

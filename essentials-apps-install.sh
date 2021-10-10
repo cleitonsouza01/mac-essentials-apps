@@ -37,8 +37,6 @@ brew install htop
 brew install gpg
 brew install pwgen
 brew install tree
-brew install git
-brew install git-cola
 brew install openinterminal
 
 # install tools 
@@ -50,9 +48,6 @@ brew install ctags
 brew install hadolint
 brew install neovim
 brew install pandoc
-brew install pyenv
-brew install pyenv-virtualenv
-brew install pyenv-virtualenvwrapper
 brew install shellcheck
 brew install the_silver_searcher
 brew install thefuck
@@ -79,8 +74,6 @@ brew install spotify
 brew install telegram
 brew install torbrowser
 brew install zoomus
-brew install visual-studio-code
-brew install open-in-code
 brew install xmind
 brew install macpass
 brew install notion
@@ -88,6 +81,16 @@ brew install evernote
 brew install sublime
 brew install kindle
 brew install send-to-kindle
+
+# Developer Tools
+brew install visual-studio-code
+brew install open-in-code
+brew install sublime-text
+brew install git
+brew install git-cola
+brew install pyenv
+brew install pyenv-virtualenv
+brew install pyenv-virtualenvwrapper
 
 # clean up
 brew cleanup -s

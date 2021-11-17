@@ -72,12 +72,14 @@ brew install markright
 brew install obs
 brew install spotify
 brew install telegram
+brew install discord
 brew install torbrowser
 brew install zoomus
 brew install xmind
 brew install macpass
 brew install notion
 brew install evernote
+brew install omnifocus
 brew install sublime
 brew install kindle
 brew install send-to-kindle
